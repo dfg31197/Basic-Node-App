@@ -1,0 +1,16 @@
+{
+  "name": "instanode",
+  "version": "1.0.0",
+  "description": "Kneegrow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DFG",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.15.4",
+    "instagram-node": "^0.5.8"
+  }
+}
